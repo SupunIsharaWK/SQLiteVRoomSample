@@ -4,15 +4,15 @@ This project compares two popular local database solutions in Android: **Raw SQL
 It includes sample implementations to help you understand the structure, performance, and use cases for each approach.
 
 ## 📁 Project Structure
-SQLite_vs_ORM_Android/
-│
+`SQLite_vs_ORM_Android/
+│  
 ├── SQLiteSample/
-│ └── DBHelper.kt
+│   └── DBHelper.kt
 │
 └── RoomSample/
-├── User.kt
-├── UserDao.kt
-└── AppDatabase.kt
+    ├── User.kt
+    ├── UserDao.kt
+    └── AppDatabase.kt`
 
 
 ## 📥 Download the Article
